@@ -24,7 +24,11 @@ The scripts implement various numerical methods such as the Euler and Verlet met
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amavicpos/three-body-problem.git```
+   git clone https://github.com/amavicpos/three-body-problem.git
 2. Navigate to the repository directory:
    ```bash
-   cd three-body-problem```
+   cd three-body-problem
+3. Run the desired MATLAB scripts using MATLAB.
+
+## Requirements
+- MATLAB
